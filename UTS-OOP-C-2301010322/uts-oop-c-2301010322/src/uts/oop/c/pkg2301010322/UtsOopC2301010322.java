@@ -6,7 +6,8 @@ package uts.oop.c.pkg2301010322;
 
 /**
  *
- * @author LAB F
+ * @author Ni Made Pramesti Dewi
+ * 10 Mei 2025
  */
 public class UtsOopC2301010322 {
 
