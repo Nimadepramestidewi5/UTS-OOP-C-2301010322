@@ -4,7 +4,8 @@ import java.util.Scanner;
 
 /**
  *
- * @author LAB F
+ * @author Ni Made Pramesti Dewi
+ * 10 Mei 2025
  */
 public class AplikasiMain {
     public static void main(String[] args) {
